@@ -1,2 +1,2 @@
 # BACKEND_API
-Backend API - Java, Spring framework
+Backend API - Java, Spring framework, RESTful API
